@@ -1,0 +1,122 @@
+body {
+	background-color: #009966;
+}
+
+.border {
+	border: 1px solid;
+}
+
+.menu {
+	background-color: #006699;
+}
+
+.konten {
+	background-color: #006666;
+	padding-bottom: 50px;
+}
+
+.konten2 {
+	padding-bottom: 20px;
+}
+
+.konten3 {
+	background-color: #006699;
+	padding-bottom: 50px;
+	padding-top: 20px;
+}
+
+.konten4 {
+	background-color: #fff;
+	padding-bottom: 50px;
+	padding-top: 20px;
+}
+
+.konten5 {
+	background-color: #33CC99;
+	padding-bottom: 50px;
+	padding-top: 20px;
+}
+
+.konten6 {
+	background-color: #33CC99;
+	padding-top: 50px;
+}
+
+.format-img {
+	margin-top: 50px;
+}
+
+.format-img2 {
+	margin-top: 20px;
+}
+
+.format-font {
+	font-family: verdana;
+	color: white;
+	text-align: center;
+}
+
+.format-font2 {
+	font-family: verdana;
+	color: white;
+}
+
+.format-font3 {
+	font-family: verdana;
+	color: black;
+	text-align: center;
+}
+
+
+.navbar.navbar-custom {
+  height: 70px;
+  background: #009966;
+  border-radius: 0;
+  border: none;
+  padding-top: 10px;
+}
+.navbar-custom .navbar-header .navbar-toggle,
+.navbar-custom .navbar-header .navbar-toggle:hover,
+.navbar-custom .navbar-header .navbar-toggle:focus {
+  border: none;
+  background: none;
+}
+.navbar-custom .navbar-header .navbar-toggle .icon-bar {
+  background: #fff;
+}
+.navbar-custom .collapse .navbar-nav > li > a,
+.navbar-custom .navbar-brand {
+  color: #fff;
+  font-family: tahoma;
+}
+.navbar-custom .collapse .navbar-nav > li > a:hover,
+.navbar-custom .collapse .navbar-nav > li > a:focus {
+  background: #006666;
+  color: #fff;
+  display: block;
+}
+.navbar-custom .collapse .navbar-nav .dropdown-menu {
+  margin-top: 10px;
+}
+@media (max-width: 767px) {
+  .navbar-custom .navbar-collapse {
+    background: #266080;
+  }
+}
+
+.dropdown-menu {
+    background-color: #266080;
+}
+
+.dropdown-menu li a {
+    color:white;
+}
+
+.dropdown-menu li a:hover {
+    background-color:#009966;
+    color:white;
+}
+
+.header {
+    background-color: #3CFFB1;
+}
